@@ -1780,4 +1780,7 @@ main {
   .hamburger-menu {
     display: flex;
   }
+  .header .btn-join {
+    display: none;
+  }
 }
