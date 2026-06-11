@@ -63,15 +63,6 @@ export default function Navbar({ currentPage, onOpenModal }) {
               {item.label}
             </a>
           ))}
-          <button
-            className="btn btn-join mobile-btn-join"
-            onClick={() => {
-              setDrawerOpen(false);
-              onOpenModal('join-modal');
-            }}
-          >
-            JOIN NOW
-          </button>
         </nav>
       </div>
     </>

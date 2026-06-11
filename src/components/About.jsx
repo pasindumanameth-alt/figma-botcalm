@@ -8,7 +8,7 @@ export default function About() {
         <div className="about-text-content">
           <h2 className="about-title">WHAT IS TEMPORAL VOYAGE KEY (TVK)?</h2>
           <p className="about-paragraph">
-            Temporal Voyage Key (TVK) is not just another cryptocurrency token—it's a revolutionary key that unlocks
+            Temporal Voyage Key (TVK) is not just another cryptocurrency token it's a revolutionary key that unlocks
             the ability to traverse through time. TVK is designed to seamlessly integrate with blockchain technology,
             offering unparalleled utility in time-based activities. Whether it's making secure transactions across
             different timeframes or participating in a decentralized governance system, TVK empowers users to harness
@@ -16,7 +16,7 @@ export default function About() {
             blockchain ecosystem.
           </p>
         </div>
-        
+
         {/* Right Side Celebratory Mascot */}
         <div className="about-right-mascot-container">
           <img
